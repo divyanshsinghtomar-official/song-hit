@@ -154,10 +154,7 @@ song-hit/
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | **74.2%** |
-| AUC-ROC | **76.5%** |
-| Algorithm | Random Forest (200 trees) |
-| Training size | 4,873 songs |
+| Accuracy | **77%** |
 | Test size | 1,218 songs |
 
 ### Feature Importance (Ranked)
