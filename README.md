@@ -218,7 +218,7 @@ MIT — free to use, modify, and share.
   Made with ❤️ by <a href="https://github.com/divyanshsinghtomar-official">Divyansh Singh Tomar</a>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/@greencode-">
+  <a href="https://www.youtube.com/channel/UCnzyxp6WYMX4fvXJIZJ4bng">
     <img src="https://img.shields.io/badge/YouTube-Green%20Code-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
