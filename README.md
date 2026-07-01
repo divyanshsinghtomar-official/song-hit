@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Billboard-1958--2021-ff69b4?style=for-the-badge&logo=music&logoColor=white" alt="Billboard">
   <img src="https://img.shields.io/badge/Spotify-Audio%20Features-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   <img src="https://img.shields.io/badge/Status-Ready%20for%20Training-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Neural%20Network-74%25%20Accuracy-FF6F00?style=for-the-badge" alt="Accuracy">
+  <img src="https://img.shields.io/badge/Neural%20Network-77%25%20Accuracy-FF6F00?style=for-the-badge" alt="Accuracy">
 </div>
 
 <br>
